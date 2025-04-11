@@ -242,6 +242,6 @@ while hp > 0 or monsterhp > 0 :
         break
             
     if hp < 0:
-        print("gg ez you dieded 💀")
+        print("gg ez you died 💀")
         exit()
 
